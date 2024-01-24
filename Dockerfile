@@ -19,7 +19,7 @@ RUN  IPE_GD_WITHOUTAVIF=1 IPE_ICU_EN_ONLY=1 IPE_KEEP_SYSPKG_CACHE=1 install-php-
      exif \
      gd \
      gmp \
-     imagick \
+     imagick/imagick@master \
      intl \
      ldap \
      mysqli \
